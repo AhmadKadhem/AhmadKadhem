@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmadKadhem
 - 👀 I’m interested in Testing stuff
-- 🌱 I’m currently learning Test automation with Selenium
+- 🌱 I’m currently writing Test automation in Cypress
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 Please don't reach out, this is a work profile
 
